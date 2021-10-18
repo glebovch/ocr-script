@@ -1,7 +1,0 @@
-pandas
-numpy
-pytesseract
-pdf2image
-opencv-python
-pyspellchecker
-click
